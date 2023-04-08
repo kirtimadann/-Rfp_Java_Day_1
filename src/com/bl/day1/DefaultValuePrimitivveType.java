@@ -1,7 +1,6 @@
 package com.bl.day1;
-
+//Write a Java program to display the default value of all primitive data types of Java
 public class DefaultValuePrimitivveType {
-
     static  int i;
     static  char c;
     static float f;
